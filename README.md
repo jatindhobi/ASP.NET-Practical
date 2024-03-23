@@ -7,3 +7,5 @@
 ### [Lab 7](https://github.com/jatindhobi/ASP.NET-Practical/blob/main/Listbox.zip) : ListBox in ASP.NET
 ### [Lab 8](https://github.com/jatindhobi/ASP.NET-Practical/blob/main/Marksheet.zip) : It will take Marks of different subject and calculate the Total and Percentage
 ### [Lab 9](https://github.com/jatindhobi/ASP.NET-Practical/blob/main/Repeatercontrol.zip) : RepeaterControl in ASP.NET
+### [Lab 10](https://github.com/jatindhobi/ASP.NET-Practical/blob/main/Session.zip) : It will Create Session and Print in another Page
+### [Lab 11](https://github.com/jatindhobi/ASP.NET-Practical/blob/main/UploadFile.zip) : To Upload the file from our Device
