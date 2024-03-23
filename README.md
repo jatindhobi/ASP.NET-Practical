@@ -3,3 +3,4 @@
 ### [Lab 3](https://github.com/jatindhobi/ASP.NET-Practical/blob/main/Cookie.zip) : To Create Cookie and Show it in same Page
 ### [Lab 4](https://github.com/jatindhobi/ASP.NET-Practical/blob/main/DatabaseProgram.zip) : Add, Update, Delete the data in Database
 ### [Lab 5](https://github.com/jatindhobi/ASP.NET-Practical/blob/main/FeeReceipt.zip) : It will take Marks of different subject and calculate the Total and Percentage
+### [Lab 6](https://github.com/jatindhobi/ASP.NET-Practical/blob/main/Gridview.zip) : Gridview in ASP.NET
